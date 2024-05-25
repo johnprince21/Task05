@@ -1,4 +1,4 @@
-//Resume create in format of JSON :
+//Resume created in format of JSON :
 
 let resume = {
     "candidateInfo" : {
